@@ -22,6 +22,6 @@ The goal of this project is to create a small chat room of private & encrypted m
 
 ### Step by step 👣
 
--   1 | Fork the repository https://github.com/TheoBIET/ChatRoom-SocketIO
+-   1 | Fork the repository 
 -   2 | `npm start`
 -   3 | Enjoy! :)
